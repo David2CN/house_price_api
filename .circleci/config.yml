@@ -312,7 +312,7 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - main
 
 #  test-all:
 #    jobs:
